@@ -1,6 +1,6 @@
 # Text-Summarizer
 
-PyTorch and Transformer :- <br>
+PyTorch and Transformer :- <br> <br>
 Transformer Pipeline :-
 We used the T5Tokenizer Transformer in PyTorch. For its training, we need input
 sequences and its corresponding target sequences, which was already provided in the
